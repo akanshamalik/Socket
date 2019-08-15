@@ -17,7 +17,7 @@ unix terminal:
 	
 	./client.exe [hostname]  [port no]
 
-4)Might need to openmany different terminal and connect the server using 
+4)Might need to open many different terminal and connect the server using 
 the same hostname where the
 server is already running.
 
